@@ -77,7 +77,13 @@ print(type(first))
 ###############################################################################
 
 ###############################################################################
-# TODO: 3. (1 pt)
+# DONE: 3. (1 pt)
+andrew=26.78
+print(andrew)
+print(type(andrew))
+print(int(andrew))
+print(type(int(andrew)))
+
 #   We can also manually convert an object from one type to another. This is 
 #   also called casting.
 #
