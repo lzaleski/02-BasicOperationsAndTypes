@@ -64,6 +64,12 @@ print(fourth)
 
 ###############################################################################
 # TODO: 4. (1 pt)
+result=7/2
+quotient=7//2
+remainder=7%2
+print(result)
+print(quotient)
+print(remainder)
 #   Immediately below this _TODO_, write code that:
 #     - Computes 7 divided by 2 and stores the result to the name  result  .
 #     - Computes just the quotient of 7 divided by 2 (HINT: use  //  as the 
