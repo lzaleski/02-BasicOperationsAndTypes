@@ -31,6 +31,8 @@ first=77-13/2
 second=77-(13/2)
 third=(77-13)/2
 print(first)
+print(second)
+print(third)
 
 #   Immediately below this _TODO_, write code that:
 #     - Computes 77 minus the division between 13 and 2.
@@ -50,7 +52,9 @@ print(first)
 ###############################################################################
 
 ###############################################################################
-# TODO: 3. (1 pt)
+# DONE: 3. (1 pt)
+fourth=5**2
+print(fourth)
 #   Immediately below this _TODO_, write code that:
 #     - Computes 5 to the 2nd power (HINT: use  **  as the operator)
 #     - Stores the result to a name of your choosing
